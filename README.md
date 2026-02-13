@@ -1,4 +1,5 @@
 # ⏳ ChronoMarket Optimizer
+[![DOI](https://zenodo.org/badge/1156857243.svg)](https://doi.org/10.5281/zenodo.18628073)
 
 **Time is the last inefficiency in modern markets.**  
 ChronoMarket Optimizer is a next-generation analytical engine designed to uncover *temporal alpha* — hidden opportunities that emerge from the interaction between time, behavior, liquidity, and predictive dynamics.
